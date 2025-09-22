@@ -67,7 +67,8 @@ NOM_PROYECTO-> Foreign code
 
 > ✅ **Entregable**: Diagrama ERD
 
-<img width="785" height="563" alt="Untitled" src="https://github.com/user-attachments/assets/6d11d90f-1a4d-43d0-a42c-8c1ebb169518" />
+<img width="795" height="534" alt="Untitled (1)" src="https://github.com/user-attachments/assets/7e9bf924-20b4-4fa9-ab0e-8fcc41458960" />
+
 
 
 ## 🛠️ Desafío 3 – Crear modelo en Snowflake
