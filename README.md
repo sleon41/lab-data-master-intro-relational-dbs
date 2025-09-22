@@ -67,6 +67,9 @@ NOM_PROYECTO-> Foreign code
 
 > ✅ **Entregable**: Diagrama ERD
 
+<img width="785" height="563" alt="Untitled" src="https://github.com/user-attachments/assets/6d11d90f-1a4d-43d0-a42c-8c1ebb169518" />
+
+
 ## 🛠️ Desafío 3 – Crear modelo en Snowflake
 
 Utiliza el esquema adecuado en zona **Silver** y aplica las **reglas de nomenclatura corporativas**:
